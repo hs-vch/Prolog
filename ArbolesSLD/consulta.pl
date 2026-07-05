@@ -1,0 +1,1 @@
+camino(vancouver, winnipeg, CostoTotal).
